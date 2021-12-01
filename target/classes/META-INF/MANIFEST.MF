@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
-Built-By: shafe
-Build-Jdk: 16.0.2
+Build-Jdk-Spec: 16
+Class-Path: lib/junit-4.12.jar lib/hamcrest-core-1.3.jar
+Main-Class: prime_number.Application
 Created-By: Maven Integration for Eclipse
 
