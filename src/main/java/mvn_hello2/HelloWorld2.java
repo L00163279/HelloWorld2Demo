@@ -8,7 +8,7 @@ public class HelloWorld2 {
 	}
 	
 	public static String getGreetingMessage(String name) {
-		return "Hello Mr"+ name + "! Welcome to LYIT";
+		return "Hello Mr "+ name + "! Welcome to LYIT";
 
 	}
 
